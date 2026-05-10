@@ -13,6 +13,7 @@ npm run develop
 Strapi should run at http://localhost:1337
 
     Nuxt (Frontend)
+without closing the backend terminal, open a new one and run:
 cd my-blog-frontend
 npm install
 npm run dev
@@ -20,6 +21,7 @@ Frontend should run at http://localhost:3000
 
 NB: Start the backend first then follow with the frontend. 
 
+token in case you are asked for it: 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
 
     REFLECTION
 Going into this assignment I had Node,js installed and not much else, so the setup process was a lot more involved than I expected. Getting Strapi running was the easiest part because the quickstart command handled most of it. The confusing part was navigating the Strapi admin panel for the first time. Finding the Content-Type Builder took longer than expected because the icons are not labelled and the layout is not obvious. 
