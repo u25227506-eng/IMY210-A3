@@ -1,4 +1,4 @@
-<!-- Author: Matshidiso Dlamini - 25227506 -->
+<!-- Matshidiso Dibakoane u25227506 -->
 <template>
   <div>
     <nav class="navbar">

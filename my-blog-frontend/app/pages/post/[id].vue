@@ -1,4 +1,4 @@
-<!-- Author: Matshidiso Dlamini - 25227506 -->
+<!-- Matshidiso Dibakoane u25227506 -->
 <template>
   <div class="post-page">
     <NuxtLink to="/" class="post-back">← Back to all posts</NuxtLink>
@@ -14,7 +14,6 @@
 </template>
 
 <script setup>
-// Author: Matshidiso Dlamini - 25227506
 const route = useRoute()
 const config = useRuntimeConfig()
 const { data, pending, error } = await useFetch(

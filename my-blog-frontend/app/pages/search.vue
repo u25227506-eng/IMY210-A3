@@ -1,4 +1,4 @@
-<!-- Author: Matshidiso Dlamini - 25227506 -->
+<!-- Matshidiso Dibakoane u25227506 -->
 <template>
   <div>
     <div class="container">
@@ -28,7 +28,6 @@
 </template>
 
 <script setup>
-// Author: Matshidiso Dlamini - 25227506
 const config = useRuntimeConfig()
 const query = ref('')
 const { data, pending, error } = await useFetch(`${config.public.strapiUrl}/api/posts?populate=*`)

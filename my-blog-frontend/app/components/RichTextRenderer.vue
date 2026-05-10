@@ -1,5 +1,5 @@
-<!-- Author: Matshidiso Dlamini - 25227506 -->
-<template>
+<!-- Matshidiso Dibakoane u25227506 -->
+ <template>
   <div class="post-content">
     <template v-for="(block, i) in content" :key="i">
       <p v-if="block.type === 'paragraph'">

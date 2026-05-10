@@ -1,5 +1,5 @@
-<!-- Author: Matshidiso Dlamini - 25227506 -->
-<template>
+<!-- Matshidiso Dibakoane u25227506 -->
+ <template>
   <NuxtLink :to="`/post/${post.documentId}`" class="post-card">
     <span class="post-card-category">{{ post.category }}</span>
     <h2 class="post-card-title">{{ post.title }}</h2>

@@ -1,5 +1,5 @@
-<!-- Author: Matshidiso Dibakoane - 25227506 -->
-<template>
+<!-- Matshidiso Dibakoane u25227506 -->
+ <template>
   <div>
     <div class="container">
       <div class="page-header">

@@ -1,4 +1,4 @@
-<!-- Author: Matshidiso Dibakoane - u25227506 -->
+<!--Matshidiso Dibakoane u25227506 -->
 <template>
   <NuxtLayout>
     <NuxtPage />

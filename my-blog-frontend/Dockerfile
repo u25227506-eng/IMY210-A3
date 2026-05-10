@@ -1,4 +1,4 @@
-# Author: Matshidiso Dibakoane - u25227506
+# Matshidiso Dibakoane u25227506
 FROM node:18-alpine
 WORKDIR /app
 COPY package*.json ./
