@@ -8,13 +8,17 @@ https://github.com/u25227506-eng/IMY210-A3
 
     Strapi(Backend)
 cd my-blog-backend
-docker build -t blog-backend .
-docker run -p 1337:1337 blog-backend
+npm install
+npm run develop
+Strapi should run at http://localhost:1337
 
     Nuxt (Frontend)
 cd my-blog-frontend
-docker build -t blog-frontend . 
-docker run -p 3000:3000 blog-frontend
+npm install
+npm run dev
+Frontend should run at http://localhost:3000
+
+NB: Start the backend first then follow with the frontend. 
 
 
     REFLECTION
