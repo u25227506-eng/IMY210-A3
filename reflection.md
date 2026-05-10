@@ -8,12 +8,12 @@ https://github.com/u25227506-eng/IMY210-A3
 
     Strapi(Backend)
 cd my-blog-backend
-docker build -t blog-backend
+docker build -t blog-backend .
 docker run -p 1337:1337 blog-backend
 
     Nuxt (Frontend)
 cd my-blog-frontend
-docker build -t blog-frontend
+docker build -t blog-frontend . 
 docker run -p 3000:3000 blog-frontend
 
 
