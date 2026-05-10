@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "posts",
+  "info": {
+    "singularName": "post",
+    "pluralName": "posts",
+    "displayName": "POST"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "snippet": {
+      "type": "string"
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "Tech",
+        "Lifestyle",
+        "Travel",
+        "Other"
+      ]
+    }
+  }
+}
