@@ -1,5 +1,5 @@
     REFLECTION - IMY210 ASSIGNMENT 3
-Matshidiso Dibakoane – u25227506
+Matshidiso Dibakoane u25227506
 
     ACCESSING THE GITHUB REPOSITORY    
 https://github.com/u25227506-eng/IMY210-A3
